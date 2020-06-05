@@ -1,0 +1,47 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you feeling today?
+user : hi
+bot : - Hello. How are you feeling today?
+user : hi
+bot : - Hello. How are you feeling today?
+user : covid yes
+bot : - Are you having Cough
+user : covid
+bot : - Good! Let us know how you feel after having the crocin.
+user : ajsdk
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : is a doctor available ?
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : doctor
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : thanks
+bot : - happy to help!
+user : COVID
+bot : - Good! Let us know how you feel after having the crocin.
+user : am i having covid
+bot : - - No I don't have Cough
+user : covid
+bot : - Good! Let us know how you feel after having the crocin.
+user : fever
+bot : - good to know. how may i assist you then?
+user : I am not feeling well.
+bot : - Okay. can you tell me what's wrong? what are your symptoms?
+user : Am I having COVID
+bot : - - No I don't have Cough
+user : High fever
+bot : - Symptom Noted. You should visit your provider / practitioner
+user : No I am good
+bot : - Good! Let us know how you feel after having the crocin.
+user : Medium fever
+bot : - Symptom Noted. Please try to take a dose of crocin after meals. Are you having any other symptoms
+user : yes
+bot : - Are you having Cough
+user : yes
+bot : - Are you having Cough
+user : yes i have
+bot : - Are you having Headache
+user : yes i have
+bot : - Are you having Headache
+user : no
+bot : - Good! Let us know how you feel after having the crocin.
